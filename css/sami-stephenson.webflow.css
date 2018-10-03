@@ -114,6 +114,8 @@ body {
 
 .feature-image {
   margin-bottom: -300px;
+  width: 200;
+  height: 500;
 }
 
 .feature-image.feature-image-right {
